@@ -9,3 +9,4 @@ Username: admin
 password: secret
 
 Any new file uploaded in the selected Category will override the existing file.
+issue:File Type Doesn't Define
